@@ -1,0 +1,26 @@
+{
+  "name": "browsersync-iis",
+  "version": "1.0.1",
+  "description": "browsersync-iis",
+  "main": "browsersync-iis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jowen29/browsersync-iis.git"
+  },
+  "keywords": [
+    "iis",
+    "browsersync-iis"
+  ],
+  "dependencies": {
+    "gulp-iis": "^1.0.0"
+  },
+  "author": "jowen29",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jowen29/browsersync-iis/issues"
+  },
+  "homepage": "https://github.com/jowen29/browsersync-iis#readme"
+}
